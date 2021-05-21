@@ -18,11 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\sotrudnic_\" />
-    <Folder Include="Pages\dilznost_\" />
     <Folder Include="Pages\marki avtomobilua_\" />
-    <Folder Include="Pages\reys_\" />
-    <Folder Include="Pages\gruz_\" />
     <Folder Include="Pages\Vid gruzov_\" />
     <Folder Include="Pages\vid avtomobilya_\" />
   </ItemGroup>
